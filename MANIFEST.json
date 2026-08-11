@@ -1,0 +1,67 @@
+[
+  {
+    "file": "CITATION.cff",
+    "sha256": "8a57e288ece6840d464a2176340b0a5c7ac530da3b10ba36cb26e2d43734e20c",
+    "bytes": 642
+  },
+  {
+    "file": "DATA_README.md",
+    "sha256": "6d2e311ae2439aa9c6840b2048c56f1f6f6854c61c1d050316a8a5577a614d3a",
+    "bytes": 540
+  },
+  {
+    "file": "README.md",
+    "sha256": "46f74ed8ddd9203025af844a0afa085c30aaa02950aee87945f4ba12e6b4cab4",
+    "bytes": 1859
+  },
+  {
+    "file": "REPRODUCIBILITY.md",
+    "sha256": "6f7850fb2ed54af536b7f5412456f45b0b6138c5e229d1b6cb8a8c7a41584e1c",
+    "bytes": 1024
+  },
+  {
+    "file": "SUBMISSION_METADATA.md",
+    "sha256": "16ce7974f955546ad697dd5b953946ba45e6431851009eb070a4080459f04579",
+    "bytes": 927
+  },
+  {
+    "file": "figures/Figure1_ROC_curves.png",
+    "sha256": "9351907e9792ddab2bb87552420ddbd56e00030d019b5440f59135e89d37b795",
+    "bytes": 208781
+  },
+  {
+    "file": "figures/Figure2_PR_curves.png",
+    "sha256": "3bb4ddd90e35757f892b6d118348c768af2699b6951e7129383c55826349ef3d",
+    "bytes": 293975
+  },
+  {
+    "file": "figures/Figure3_confusion_matrices.png",
+    "sha256": "4ccf422df8837d633549ec569ae8bb2a3de1650aec09e0d046f6630dec9e6412",
+    "bytes": 162273
+  },
+  {
+    "file": "original_analysis_notebook.ipynb",
+    "sha256": "e20689f0f3587304d0db20fa3f397f11b4828bb445f1302c43b467aa83c2c0be",
+    "bytes": 102742
+  },
+  {
+    "file": "reproducible_reanalysis.ipynb",
+    "sha256": "85788f357b1fcd13a2ab80fecad8df12e6f1a1a753d46a24fdd8d685622c0ad3",
+    "bytes": 7019
+  },
+  {
+    "file": "requirements.txt",
+    "sha256": "9c665ebbc52b9eaf54ccbb8ae04359021a490c52c552226f17f51d57f178d6a7",
+    "bytes": 62
+  },
+  {
+    "file": "results/all_feature_logistic_sensitivity.csv",
+    "sha256": "0e20e1afa322bf78a4fe58e67374403ff8596eb55b6fdb136f007acd8c9988cb",
+    "bytes": 120
+  },
+  {
+    "file": "results/corrected_14_feature_results.csv",
+    "sha256": "9ee906594cb26805f82fa4e307debe6cbec13d97727931a091c0d54dbf6d3bfd",
+    "bytes": 1011
+  }
+]

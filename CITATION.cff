@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Credit Card Fraud Detection — Reproducibility Package"
+message: "If you use this code or derived analysis, please cite the associated journal article and this software record."
+type: software
+authors:
+  - family-names: "Oluwole"
+    given-names: "Oluwadamilola"
+    affiliation: "Austin Peay State University"
+version: "1.0.0"
+date-released: "2026-08-10"
+repository-code: "https://github.com/REPLACE_WITH_USERNAME/REPLACE_WITH_REPOSITORY"
+license: "NOASSERTION"
+keywords:
+  - credit card fraud
+  - fraud detection
+  - machine learning
+  - class imbalance
+  - logistic regression
+  - decision tree
+  - naive Bayes
